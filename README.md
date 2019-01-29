@@ -4,7 +4,7 @@
 
 ```sh
 $ cd aws_project_RD_cc104
-$ mkdir -p {work/pic,dynamodb,mysql}
+$ mkdir -p {work/pic}
 ```
 
 開始執行
